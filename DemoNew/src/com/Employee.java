@@ -1,8 +1,10 @@
+package com;
+
 public class Employee{
  
   private int id;
   
-  pivate String name;
+  private String name;
   
   public void setId(int id){
     this.id = id;
